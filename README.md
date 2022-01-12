@@ -1,4 +1,5 @@
-# 🟢 Avaliação Sprint 3 - Programa de Bolsas Compass.uol e UFMS 🟢
+# 🟢 Machine Learning 🟢
+
 # Acesso ao Projeto
 - Para executar o notebook é necessário acessar o link [clicando aqui](https://jupyter-tensorflow-notebook-viniciusmarchi.cloud.okteto.net/notebooks/cifar10-model.ipynb). A senha de acesso é "okteto", caso exigida. 
 ---
